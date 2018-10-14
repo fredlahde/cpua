@@ -1,0 +1,6 @@
+[package]
+name = "cpua"
+version = "0.1.0"
+authors = ["fred <fredlahde@gmail.com>"]
+
+[dependencies]
